@@ -1,2 +1,2 @@
 # ssc
-secure stable connection 
+Secure Stable Connection 
