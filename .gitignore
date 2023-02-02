@@ -1,0 +1,11 @@
+ssc
+server
+client
+vendor
+*.log
+*.temp
+*.swp
+*.exe
+*.exe~
+*.exe.*
+.vscode
